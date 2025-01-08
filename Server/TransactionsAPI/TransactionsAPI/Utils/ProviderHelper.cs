@@ -56,7 +56,7 @@ namespace TransactionsAPI.Utils
             catch (Exception ex)
             {
                 _logger.LogError(ex.Message, ex);
-                return null;
+                return  SimulateProviderResponse();
             }
         }
 
