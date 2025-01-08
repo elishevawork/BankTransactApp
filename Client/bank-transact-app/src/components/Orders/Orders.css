@@ -1,0 +1,18 @@
+.error-message-alert {
+    background-color: #edd4d4;    
+    margin: 10px 0;
+    padding: 10px; 
+    color: #571515;
+    border: 1px solid #e6c3c3;
+    border-radius: 4px,
+  }
+  
+  .success-message-alert{
+    background-color: #d4edda;    
+    margin: 10px 0;
+    padding: 10px; 
+    color: #155724;
+    border: 1px solid #c3e6cb;
+    border-radius: 4px,
+  }
+  

@@ -1,0 +1,27 @@
+.new-order {
+    background-color:transparent;
+    padding: 1rem;
+    margin: 2rem auto;
+    width: 90%;
+    max-width: 95%;
+    border-radius: 12px;
+    text-align: right;
+   
+}
+
+.new-order button {
+    font:inherit;
+    cursor: pointer;
+    padding:  1rem 2rem;
+    border: 1px solid #6b4f96;
+    background-color: #6b4f96;
+    color: white;
+    border-radius: 12px;
+    margin-right: 1rem;    
+}
+
+.new-order button:hover,
+.new-order button:active{
+    background-color: #3b3141;
+    border-color: #3b3141;
+}
